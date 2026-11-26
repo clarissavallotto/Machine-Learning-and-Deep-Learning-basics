@@ -833,7 +833,7 @@ my_pipeline.fit(X, y)
 predictions = my_pipeline.predict(test_data)
 
 
-# 12. CREATE KAGGLE SUBMISSION
+# 12. CREATE SUBMISSION
 # ------------------------------------------------------------
 
 submission = pd.DataFrame({
